@@ -197,7 +197,7 @@ int main() {
   	map_waypoints_dy.push_back(d_y);
   }
 
-  // Car's lane. Stating at middle lane.
+  // Car's lane. Starting at middle lane.
   int lane = 1;
 
   // Reference velocity.
